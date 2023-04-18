@@ -1,1 +1,3 @@
 # AshishSRMIST
+
+RockingTech is a tech blog website that covers a wide range of topics related to the latest technologies and trends. Whether you're a tech enthusiast, a professional developer, or simply interested in the world of technology, RockingTech has something for everyone. With a team of experienced writers and contributors, we aim to provide quality content that is informative, insightful, and engaging. From in-depth tutorials and product reviews to news updates and industry insights, RockingTech is your go-to destination for everything tech-related. So join us on this exciting journey and stay updated with the latest developments in the world of technology!
